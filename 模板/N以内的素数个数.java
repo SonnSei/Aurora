@@ -5,7 +5,7 @@
  * @Date 2019/12/31 10:18
  * @Author SonnSei
  */
-public class Test {
+ class Test {
     public static void main(String[] args) {
         System.out.println(primeFilter(2));
     }
