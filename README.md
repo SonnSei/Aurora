@@ -1,1 +1,1 @@
-[test](./test.md)
+[LeetCode](./LC/LC.md)
