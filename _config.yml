@@ -21,6 +21,7 @@ sass:
   style: compressed
 
 # Site Data
+posts:1
 url: # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: # the subpath of your site, e.g. /blog
 title: Aurora
