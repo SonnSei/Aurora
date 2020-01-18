@@ -26,11 +26,11 @@
         <li data-menuanchor="social"><a href="#social">Social Links</a></li>
     </ul>
 
-    <div id="section0" class="section" data-name="bio" background="{{ site.baseurl }}/assets/images/bg.jpg">
+    <div id="section0" class="section" data-name="bio" >
 
         {% include common/notices.html %}
 
-        <div class="headings animated fadeInLeft">
+        <div class="headings animated fadeInLeft" background="{{ site.baseurl }}/assets/images/bg.jpg">
             {% if site.home.section1 %}{{ site.home.section1 }}{% endif %}
             {% if site.home.section2 %}{{ site.home.section2 }}{% endif %}
             {% if site.home.section3 %}{{ site.home.section3 }}{% endif %}
