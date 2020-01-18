@@ -1,6 +1,6 @@
-<!--代码放置于</body>上方-->
 
-<script>
+
+
 
 !function(){
 
@@ -96,4 +96,3 @@ setTimeout(function(){i()},100)
 
 }();
 
-</script>
