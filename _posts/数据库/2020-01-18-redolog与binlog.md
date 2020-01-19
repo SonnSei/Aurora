@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "redolog?binlog?两段式提交？"
+title: "redolog与binlog"
 description: "innodb的日志相关"
-categories: [数据库]
+categories: [知识总结]
 tags: [MySQL]
 redirect_from:
   - /2020/01/18/
